@@ -7,7 +7,6 @@ import android.widget.VideoView;
 public class CustomVideoView extends VideoView {
 	private int mVideoWidth;
 	private int mVideoHeight;
-
 	
 	public CustomVideoView(Context context) {
 		super(context);
