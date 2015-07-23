@@ -8,7 +8,6 @@ public class CustomVideoView extends VideoView {
 	private int mVideoWidth;
 	private int mVideoHeight;
 	
-	
 	public CustomVideoView(Context context) {
 		super(context);
 		// TODO Auto-generated constructor stub
